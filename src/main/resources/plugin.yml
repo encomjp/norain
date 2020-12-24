@@ -1,0 +1,11 @@
+name: PpNoRain
+version: ${project.version}
+main: com.pepe.ppnorain.ppnorain.PpNoRain
+api-version: 1.16
+authors: [ EuropeanPepe ]
+description: No Rain Allowed
+website: pepecraft.com
+commands:
+  norain:
+    aliases: []
+    usage: No Rain Allowed
